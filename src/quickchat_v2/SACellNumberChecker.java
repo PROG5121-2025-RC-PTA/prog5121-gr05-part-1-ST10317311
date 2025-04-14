@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RC_Student_lab
+ * @author ST10317311_Pako_Tone
  */
 
 // ---- This is the AI generated class for checking cell phone numbers in South Africa. ----

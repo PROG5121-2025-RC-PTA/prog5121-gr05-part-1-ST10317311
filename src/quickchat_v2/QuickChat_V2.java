@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RC_Student_lab
+ * @author ST10317311_Pako_Tone
  */
 public class QuickChat_V2 {
 

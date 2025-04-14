@@ -10,7 +10,7 @@ import static quickchat_v2.SignUp.signUp;
 
 /**
  *
- * @author RC_Student_lab
+ * @author ST10317311_Pako_Tone
  */
 public class LogIn {
     public static void logIn(){
